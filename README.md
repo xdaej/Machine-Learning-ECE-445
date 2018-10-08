@@ -1,2 +1,2 @@
-# jupyterhw0
-ML HW 1
+# Machine-Learning-ECE-445
+All the ML projects & python assignments in Jupyter Notebook
